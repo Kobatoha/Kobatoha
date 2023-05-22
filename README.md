@@ -3,7 +3,7 @@
 ### Codewars stats:
 [![codewars](https://www.codewars.com/users/Kobatoha/badges/large)](https://www.codewars.com/users/Kobatoha)
 ### Leetcode stats:
-![LeetCode Stats]()
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kobatoha?theme=dark&font=Jura)
 
 
 ### My projects
