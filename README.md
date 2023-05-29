@@ -6,7 +6,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kobatoha?theme=dark&font=Jura)
 
 
-### My projects
+### :fire: My projects :
 | Project name | Description | Tools |
 |--------------|-------------|-------|
 | [Wacdonalds clan site](https://github.com/Kobatoha/wacdonalds) | Хранение и учет активностей мемберов клана Lineage2 | Python3.10, Django |
