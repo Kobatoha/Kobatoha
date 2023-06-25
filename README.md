@@ -21,5 +21,5 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Kobatoha/Kobatoha/assets/126861307/e5b1e09b-6e8e-43ef-8407-2a1a37052b27" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-
+  <img src="https://www.noocontrol.ru/wp-content/uploads/2020/11/kisspng-logo-QT.png" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
 </div>
