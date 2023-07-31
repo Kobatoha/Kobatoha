@@ -12,7 +12,7 @@
 | [Wacdonalds clan site](https://github.com/Kobatoha/wacdonalds) | Хранение и учет активностей мемберов клана Lineage2 | Python3.10, Django |
 | [Wacdonalds notice telegram-bot](https://github.com/Kobatoha/Wacdonalds_telebot) | Бот-оповещение о запланированных эвентах Lineage2 | Python3.10, schedule, pytelegrambotapi |
 | [Тестовые задания](https://github.com/Kobatoha/Test-tasks) | Тестовые задания со стажировок/собеседований | Python3.10, PostgreSQL, psycopg2 |
-| [Unicorn](https://github.com/Kobatoha/Unicorn) | Ингейм кликер для Lineage2 (в разработке) | Python3.11, pyQt5, pyautogui |
+| [Unicorn](https://github.com/Kobatoha/Unicorn) | Кликер (в разработке) | Python3.11, pyQt5, pyautogui |
 | [TelegramBot](https://github.com/Kobatoha/Lineage2Notifications) | Телеграм-бот об ингейм эвентах | Python3.11, aiogram2.25, PostgreSQL15.2, SQLAlchemy2.0 |
 
 
