@@ -13,7 +13,7 @@
 | [Wacdonalds notice telegram-bot](https://github.com/Kobatoha/Wacdonalds_telebot) | Бот-оповещение о запланированных эвентах Lineage2 | Python3.10, schedule, pytelegrambotapi |
 | [Тестовые задания](https://github.com/Kobatoha/Test-tasks) | Тестовые задания со стажировок/собеседований | Python3.10, PostgreSQL, psycopg2 |
 | [Unicorn](https://github.com/Kobatoha/Unicorn) | Ингейм кликер для Lineage2 (в разработке) | Python3.11, pyQt5, pyautogui |
-| [Lineage2Notifications](https://github.com/Kobatoha/Lineage2Notifications) | Телеграм-бот об ингейм эвентах на сервере Lavender Lineage2 | Python3.11, aiogram2.25, PostgreSQL15.2, SQLAlchemy2.0 |
+| [TelegramBot](https://github.com/Kobatoha/Lineage2Notifications) | Телеграм-бот об ингейм эвентах | Python3.11, aiogram2.25, PostgreSQL15.2, SQLAlchemy2.0 |
 
 
 ### :hammer_and_wrench: Languages and Tools :
