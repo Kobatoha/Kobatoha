@@ -1,13 +1,4 @@
-### Всем привет👋
-
-В поисках первой работы в разработке <3
-
-Немного обо мне:
-- Зовут Александра, 31 год.
-- люблю книги, люблю читать, немножко книговед
-- люблю игры, особенно ММО, особенно Lineage2 (для Ragnarok Online в сердечке отдельное место)
-- люблю компы, особенно с большими мониторами и классной внутрянкой
-- люблю писать код, хоть и сложно, зато интересно
+### 👋👋
 
 ### Codewars stats:
 [![codewars](https://www.codewars.com/users/Kobatoha/badges/large)](https://www.codewars.com/users/Kobatoha)
@@ -22,7 +13,7 @@
 | [Wacdonalds notice telegram-bot](https://github.com/Kobatoha/Wacdonalds_telebot) | Бот-оповещение о запланированных эвентах Lineage2 | Python3.10, schedule, pytelegrambotapi |
 | [Тестовые задания](https://github.com/Kobatoha/Test-tasks) | Тестовые задания со стажировок/собеседований | Python3.10, PostgreSQL, psycopg2 |
 | [Unicorn](https://github.com/Kobatoha/Unicorn) | Ингейм кликер для Lineage2 (в разработке) | Python3.11, pyQt5, pyautogui |
-| [Lineage2Notifications](https://github.com/Kobatoha/Lineage2Notifications) | Телеграм-бот об ингейм эвентах на сервере Lavender Lineage2 - публичный | Python3.11, aiogram2.25, PostgreSQL15.2, SQLAlchemy2.0 |
+| [Lineage2Notifications](https://github.com/Kobatoha/Lineage2Notifications) | Телеграм-бот об ингейм эвентах на сервере Lavender Lineage2 | Python3.11, aiogram2.25, PostgreSQL15.2, SQLAlchemy2.0 |
 
 
 ### :hammer_and_wrench: Languages and Tools :
