@@ -26,5 +26,5 @@
   <img src="https://github.com/Kobatoha/Kobatoha/assets/126861307/e5b1e09b-6e8e-43ef-8407-2a1a37052b27" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qt_small.svg/1200px-Qt_small.svg.png" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/1200px-SQLAlchemy.svg.png" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
-  <img src="https://c0.klipartz.com/pngpicture/444/780/gratis-png-servidor-de-la-base-de-datos-del-servidor-microsoft-sql-server-base-de-datos-administrador-servidor-thumbnail.png" title="MS SQL" alt="MS SQL" width="40" height="40"/>&nbsp;
+  <img src="https://image.pngaaa.com/753/2115753-middle.png" title="MS SQL" alt="MS SQL" width="40" height="40"/>&nbsp;
 </div>
