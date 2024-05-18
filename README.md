@@ -26,6 +26,6 @@
   <img src="https://github.com/Kobatoha/Kobatoha/assets/126861307/e5b1e09b-6e8e-43ef-8407-2a1a37052b27" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qt_small.svg/1200px-Qt_small.svg.png" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/1200px-SQLAlchemy.svg.png" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/9907/9907111.png" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://dataedo-website.s3.amazonaws.com/supported-sources/sql-server-sm.png" title="MS SQL" alt="MS SQL" width="40" height="40"/>&nbsp;
-  <img scr="https://cdn-icons-png.flaticon.com/512/9907/9907111.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 </div>
