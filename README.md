@@ -1,4 +1,4 @@
-### 👋👋
+### все еще трепыхаюсь 👍
 
 ### Codewars stats:
 [![codewars](https://www.codewars.com/users/Kobatoha/badges/large)](https://www.codewars.com/users/Kobatoha)
