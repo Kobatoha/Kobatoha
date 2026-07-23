@@ -17,7 +17,7 @@
 | Project name | Description | Tools |
 |--------------|-------------|-------|
 | [TheLittleWitch](https://github.com/Kobatoha/TheLittleWitch) | Browser-based economic sandbox: server-side logic, event-driven architecture, AI-generated assets | FastAPI, PostgreSQL, SQLAlchemy, Stable Diffusion |
-| [Async Microservice Example](https://github.com/Kobatoha/python-async-microservice-example) | Production-ready async microservice with OAuth2, task queuing, and retry logic | Python 3.12, aiohttp, asyncio, RabbitMQ |
+| [Async Microservice Example](https://github.com/Kobatoha/code-samples) | Production-ready async microservice with OAuth2, task queuing, and retry logic | Python 3.12, aiohttp, asyncio, RabbitMQ |
 | [Wacdonalds Clan Site](https://github.com/Kobatoha/wacdonalds) | Full-stack Django app with Telegram integration for clan activity tracking | Django, PostgreSQL, Telegram API |
 | [PDF Viewer](https://github.com/Kobatoha/PDF_Viewer_App) | Desktop GUI application for PDF viewing with advanced navigation | PyQt5, PyMuPDF |
 
