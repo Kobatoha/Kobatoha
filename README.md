@@ -1,6 +1,6 @@
 # Python Backend Developer
 
-Разрабатываю backend-сервисы, API-интеграции и автоматизацию на Python.
+Building backend services, API integrations and automation with Python.
 
 ### 🛠️ Main Stack
 
@@ -12,9 +12,17 @@
 [![Redis](https://img.shields.io/badge/Redis-lightpink?style=for-the-badge&logo=redis&logoColor=black)](https://redis.io/)
 [![Pytest](https://img.shields.io/badge/Pytest-lightpink?style=for-the-badge&logo=pytest&logoColor=black)](https://pytest.org/)
 
+### 💻 What I Build
+
+- Backend services and REST API
+- Async integrations with external APIs
+- Automation of repetitive workflows
+- Data processing and service integrations
+- Tests and CI for Python projects
 
 ### 🤖 AI / LLM
 
 Ollama · Local LLMs · AI-assisted development
+
 
 📫 [Telegram](https://t.me/Kobatoha) · ✉️ `kobatoha@gmail.com`
