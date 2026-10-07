@@ -1,42 +1,22 @@
-### 👋 Привет! Я Александра
+# Python Backend Developer
 
-**Python Backend Developer**
+Разрабатываю backend-сервисы, API-интеграции и автоматизацию на Python.
 
-*Async Python · FastAPI · API Integrations*
+### 🛠️ Main Stack
 
----
+[![Python](https://img.shields.io/badge/Python-lightpink?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-lightpink?style=for-the-badge&logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com/)
+[![AsyncIO](https://img.shields.io/badge/AsyncIO-lightpink?style=for-the-badge&logo=python&logoColor=black)](https://docs.python.org/3/library/asyncio.html)
+[![aiohttp](https://img.shields.io/badge/aiohttp-lightpink?style=for-the-badge&logo=python&logoColor=black)](https://docs.aiohttp.org/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-lightpink?style=for-the-badge&logo=sqlalchemy&logoColor=black)](https://www.sqlalchemy.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightpink?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-lightpink?style=for-the-badge&logo=redis&logoColor=black)](https://redis.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-lightpink?style=for-the-badge&logo=rabbitmq&logoColor=black)](https://www.rabbitmq.com/)
+[![Pytest](https://img.shields.io/badge/Pytest-lightpink?style=for-the-badge&logo=pytest&logoColor=black)](https://pytest.org/)
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110-blue?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-24.0-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
----
+### 🤖 AI / LLM
 
-### :fire: Мои проекты :
+Ollama · Local LLMs · AI-assisted development
 
-| Project name | Description | Tools |
-|--------------|-------------|-------|
-| [TheLittleWitch](https://github.com/Kobatoha/TheLittleWitch) | Browser-based economic sandbox: server-side logic, event-driven architecture, AI-generated assets | FastAPI, PostgreSQL, SQLAlchemy, Stable Diffusion |
-| [Async Microservice Example](https://github.com/Kobatoha/code-samples) | Production-ready async microservice with OAuth2, task queuing, and retry logic | Python 3.12, aiohttp, asyncio, RabbitMQ |
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-fastapi-icon-svg-download-png-14550472.png?f=webp&w=256" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-icon-svg-download-png-282296.png?f=webp&w=256" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-redis-logo-icon-svg-download-png-2945117.png?f=webp&w=256" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :chart_with_upwards_trend: Stats :
-
-[![codewars](https://www.codewars.com/users/Kobatoha/badges/large)](https://www.codewars.com/users/Kobatoha)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kobatoha?theme=dark&font=Jura)
+📫 [Telegram](https://t.me/Kobatoha) · ✉️ `kobatoha@gmail.com`
