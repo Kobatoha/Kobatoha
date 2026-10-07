@@ -8,10 +8,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-lightpink?style=for-the-badge&logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com/)
 [![AsyncIO](https://img.shields.io/badge/AsyncIO-lightpink?style=for-the-badge&logo=python&logoColor=black)](https://docs.python.org/3/library/asyncio.html)
 [![aiohttp](https://img.shields.io/badge/aiohttp-lightpink?style=for-the-badge&logo=python&logoColor=black)](https://docs.aiohttp.org/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-lightpink?style=for-the-badge&logo=sqlalchemy&logoColor=black)](https://www.sqlalchemy.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightpink?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-lightpink?style=for-the-badge&logo=redis&logoColor=black)](https://redis.io/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-lightpink?style=for-the-badge&logo=rabbitmq&logoColor=black)](https://www.rabbitmq.com/)
 [![Pytest](https://img.shields.io/badge/Pytest-lightpink?style=for-the-badge&logo=pytest&logoColor=black)](https://pytest.org/)
 
 
